@@ -1,4 +1,4 @@
-# Generic-Unordered-Map-Implementation
+# Generic-Unordered-Map-Implementation-Using-Universal-Hashing
 Task: Implement an Unordered Map.
 Functions to implement:
 1. insert(key, value) – insert key value pair.
